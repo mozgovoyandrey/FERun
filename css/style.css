@@ -1,0 +1,27 @@
+body {
+    font-size: 10pt;
+    color: #000000;
+    background-color: #ffffff;
+}
+input.loginField {
+    border:1px inset;background:#ffffff;font-size: 8pt;
+}
+.style1 {
+    font-size: 8pt;
+    color: #000000;
+    text-align: left;
+}
+.msgerrorpage {
+    border: 1px solid #999999;
+    background-color: #FBF0C6;
+    border-spacing: 5px ;
+    width: 100%;
+    height: 60px
+}
+.msgerrorpage td {
+    border: 1px solid #999999;
+    background-color: #FEFCF5;
+    text-align: center;
+    color: #FF0000;
+    font-size: small;
+}
