@@ -5,33 +5,33 @@
 if (!empty($userid) && $access['admin'] == 1 && accesscheck($userinfo['usergroup'], $pageid) == 1)
 {
     $adm_gamenew_add_gamename = $_POST['adm_gamenew_add_gamename'];
-    $adm_gamenew_add_gamename = ereg('^[0-9a-zA-Zа-яА-ЯЁё _\-\.]{5,50}$', trim($adm_gamenew_add_gamename)) ? addslashes(trim($adm_gamenew_add_gamename)) : '';
+    $adm_gamenew_add_gamename = preg_match('/^[0-9a-zA-Zа-яА-ЯЁё _\-\.]{5,50}$/', trim($adm_gamenew_add_gamename)) ? addslashes(trim($adm_gamenew_add_gamename)) : '';
     $page['text'] .= $adm_gamenew_add_gamename.'<br />';
     $adm_gamenew_add_gametype = $_POST['adm_gamenew_add_gametype'];
-    $adm_gamenew_add_gametype = ereg('^[0-9]{1,3}$', $adm_gamenew_add_gametype) ? $adm_gamenew_add_gametype : '';
+    $adm_gamenew_add_gametype = preg_match('/^[0-9]{1,3}$/', $adm_gamenew_add_gametype) ? $adm_gamenew_add_gametype : '';
     $page['text'] .= $adm_gamenew_add_gametype.'<br />';
     $adm_gamenew_add_gamelegend = $_POST['adm_gamenew_add_gamelegend'];
     $adm_gamenew_add_gamelegend = addslashes(htmlspecialchars(trim($adm_gamenew_add_gamelegend)));
     $adm_gamenew_add_gametimestart['1'] = $_POST['adm_gamenew_add_gametimestart1'];
-    $adm_gamenew_add_gametimestart['1'] = ereg('^[0-9]{2}$', $adm_gamenew_add_gametimestart['1']) ? $adm_gamenew_add_gametimestart['1'] : '';
+    $adm_gamenew_add_gametimestart['1'] = preg_match('/^[0-9]{2}$/', $adm_gamenew_add_gametimestart['1']) ? $adm_gamenew_add_gametimestart['1'] : '';
     $adm_gamenew_add_gametimestart['2'] = $_POST['adm_gamenew_add_gametimestart2'];
-    $adm_gamenew_add_gametimestart['2'] = ereg('^[0-9]{2}$', $adm_gamenew_add_gametimestart['2']) ? $adm_gamenew_add_gametimestart['2'] : '';
+    $adm_gamenew_add_gametimestart['2'] = preg_match('/^[0-9]{2}$/', $adm_gamenew_add_gametimestart['2']) ? $adm_gamenew_add_gametimestart['2'] : '';
     $adm_gamenew_add_gametimestart['3'] = $_POST['adm_gamenew_add_gametimestart3'];
-    $adm_gamenew_add_gametimestart['3'] = ereg('^[0-9]{4}$', $adm_gamenew_add_gametimestart['3']) ? $adm_gamenew_add_gametimestart['3'] : '';
+    $adm_gamenew_add_gametimestart['3'] = preg_match('/^[0-9]{4}$/', $adm_gamenew_add_gametimestart['3']) ? $adm_gamenew_add_gametimestart['3'] : '';
     $adm_gamenew_add_gametimestart['4'] = $_POST['adm_gamenew_add_gametimestart4'];
-    $adm_gamenew_add_gametimestart['4'] = ereg('^[0-9]{2}$', $adm_gamenew_add_gametimestart['4']) ? $adm_gamenew_add_gametimestart['4'] : '';
+    $adm_gamenew_add_gametimestart['4'] = preg_match('/^[0-9]{2}$/', $adm_gamenew_add_gametimestart['4']) ? $adm_gamenew_add_gametimestart['4'] : '';
     $adm_gamenew_add_gametimestart['5'] = $_POST['adm_gamenew_add_gametimestart5'];
-    $adm_gamenew_add_gametimestart['5'] = ereg('^[0-9]{2}$', $adm_gamenew_add_gametimestart['5']) ? $adm_gamenew_add_gametimestart['5'] : '';
+    $adm_gamenew_add_gametimestart['5'] = preg_match('/^[0-9]{2}$/', $adm_gamenew_add_gametimestart['5']) ? $adm_gamenew_add_gametimestart['5'] : '';
     $adm_gamenew_add_gametimefinish['1'] = $_POST['adm_gamenew_add_gametimefinish1'];
-    $adm_gamenew_add_gametimefinish['1'] = ereg('^[0-9]{2}$', $adm_gamenew_add_gametimefinish['1']) ? $adm_gamenew_add_gametimefinish['1'] : '';
+    $adm_gamenew_add_gametimefinish['1'] = preg_match('/^[0-9]{2}$/', $adm_gamenew_add_gametimefinish['1']) ? $adm_gamenew_add_gametimefinish['1'] : '';
     $adm_gamenew_add_gametimefinish['2'] = $_POST['adm_gamenew_add_gametimefinish2'];
-    $adm_gamenew_add_gametimefinish['2'] = ereg('^[0-9]{2}$', $adm_gamenew_add_gametimefinish['2']) ? $adm_gamenew_add_gametimefinish['2'] : '';
+    $adm_gamenew_add_gametimefinish['2'] = preg_match('/^[0-9]{2}$/', $adm_gamenew_add_gametimefinish['2']) ? $adm_gamenew_add_gametimefinish['2'] : '';
     $adm_gamenew_add_gametimefinish['3'] = $_POST['adm_gamenew_add_gametimefinish3'];
-    $adm_gamenew_add_gametimefinish['3'] = ereg('^[0-9]{4}$', $adm_gamenew_add_gametimefinish['3']) ? $adm_gamenew_add_gametimefinish['3'] : '';
+    $adm_gamenew_add_gametimefinish['3'] = preg_match('/^[0-9]{4}$/', $adm_gamenew_add_gametimefinish['3']) ? $adm_gamenew_add_gametimefinish['3'] : '';
     $adm_gamenew_add_gametimefinish['4'] = $_POST['adm_gamenew_add_gametimefinish4'];
-    $adm_gamenew_add_gametimefinish['4'] = ereg('^[0-9]{2}$', $adm_gamenew_add_gametimefinish['4']) ? $adm_gamenew_add_gametimefinish['4'] : '';
+    $adm_gamenew_add_gametimefinish['4'] = preg_match('/^[0-9]{2}$/', $adm_gamenew_add_gametimefinish['4']) ? $adm_gamenew_add_gametimefinish['4'] : '';
     $adm_gamenew_add_gametimefinish['5'] = $_POST['adm_gamenew_add_gametimefinish5'];
-    $adm_gamenew_add_gametimefinish['5'] = ereg('^[0-9]{2}$', $adm_gamenew_add_gametimefinish['5']) ? $adm_gamenew_add_gametimefinish['5'] : '';
+    $adm_gamenew_add_gametimefinish['5'] = preg_match('/^[0-9]{2}$/', $adm_gamenew_add_gametimefinish['5']) ? $adm_gamenew_add_gametimefinish['5'] : '';
 
     // получение unix времени старта
     if (!empty($adm_gamenew_add_gametimestart['1']) && !empty($adm_gamenew_add_gametimestart['2']) && !empty($adm_gamenew_add_gametimestart['3']) && !empty($adm_gamenew_add_gametimestart['4']) && !empty($adm_gamenew_add_gametimestart['5']))

@@ -12,14 +12,14 @@ if (!empty($userid) && accesscheck($userinfo['usergroup'], $pageid) == 1)
 {
     $action = $_GET['action'];
     $teamid = $_GET['tid'];
-    $action = ereg('^[a-z]{3,20}$', $action) ? $action : '';
-    $teamid = ereg('^[0-9]{1,11}$', $teamid) ? $teamid : '';
+    $action = preg_match('/^[a-z]{3,20}$/', $action) ? $action : '';
+    $teamid = preg_match('/^[0-9]{1,11}$/', $teamid) ? $teamid : '';
 
     if ($action == 'newteam' && empty($userinfo['userteam']))
         // Создание новой команды
     {
         $newteamname = $_POST['newteamname'];
-        $newteamname = ereg('^[a-zA-Zа-яА-Я0-9]{3,20}$', $newteamname) ? $newteamname : '';
+        $newteamname = preg_match('/^[a-zA-Zа-яА-Я0-9]{3,20}$/', $newteamname) ? $newteamname : '';
         //$action = ereg('^[a-z]{3,20}$', $action) ? $action : '';
         if (!empty($newteamname) && numrowsbase('teams', 'teamname', $newteamname) == 0)
         {

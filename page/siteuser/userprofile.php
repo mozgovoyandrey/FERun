@@ -10,9 +10,9 @@
 if (!empty($userid) && accesscheck($userinfo['usergroup'], $pageid) == 1)
 {
     $action = $_GET['action'];
-    $action = ereg('^[a-z]{3,10}$', $action) ? $action : '';
+    $action = preg_match('/^[a-z]{3,10}$/', $action) ? $action : '';
     $viewuser = $_GET['uid'];
-    $viewuser = ereg('^[0-9]{1,11}$', $viewuser) ? $viewuser : '';
+    $viewuser = preg_match('/^[0-9]{1,11}$/', $viewuser) ? $viewuser : '';
 
     if (!empty($viewuser) && $userinfo['userid'] == $viewuser)
     {
@@ -23,7 +23,7 @@ if (!empty($userid) && accesscheck($userinfo['usergroup'], $pageid) == 1)
         elseif ($action == 'editpass')
         {
             $editpass = $_POST['newpassword'];
-            $editpass = ereg('^[a-zA-Z0-9]{3,20}$', $editpass) ? $editpass : '';
+            $editpass = preg_match('/^[a-zA-Z0-9]{3,20}$/', $editpass) ? $editpass : '';
             if (!empty($editpass['pass']))
             {
                 $query = "UPDATE  `users` SET  `userpassword` =  '".md5($editpass)."' WHERE  `userid` = '".$userinfo['userid']."'";

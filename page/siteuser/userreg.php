@@ -22,7 +22,7 @@ if (empty($userid))
     {
         if (!empty($register['login']))
         {
-            if (ereg('^[a-z]{3,20}$', $register['login']))
+            if (preg_match('/^[a-z]{3,20}$/', $register['login']))
             {
                 $query = "select * from `users` where userlogin='".$register['login']."'";
                 $result = $db->query($query);
@@ -50,7 +50,7 @@ if (empty($userid))
 
         if (!empty($register['nikname']))
         {
-            if (ereg('^[a-zA-Zа-яА-Я0-9]{3,20}$', $register['nikname']))
+            if (preg_match('/^[a-zA-Zа-яА-Я0-9]{3,20}$/', $register['nikname']))
             {
                 $query = "select * from `users` where username='".$register['nikname']."'";
                 $result = $db->query($query);
@@ -78,7 +78,7 @@ if (empty($userid))
 
         if (!empty($register['password']))
         {
-            if (ereg('^[a-zA-Z0-9]{3,20}$', $register['password']))
+            if (preg_match('/^[a-zA-Z0-9]{3,20}$/', $register['password']))
             {
                 $error['password'] = 0;
                 $register['password'] =  md5($register['password']);
@@ -96,7 +96,7 @@ if (empty($userid))
 
         if (!empty($register['email']))
         {
-            if (ereg('^[a-z0-9_\.\-]{3,}@[a-z]{4,}\.[a-z]{2,3}$', $register['email']))
+            if (preg_match('/^[a-z0-9_\.\-]{3,}@[a-z]{4,}\.[a-z]{2,3}$/', $register['email']))
             {
                 $error['email'] = 0;
             }
