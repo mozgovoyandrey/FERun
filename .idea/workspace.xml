@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca234e77-d5e3-4468-9290-6fd3994c4446" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="ferun.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ferun" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="kvadratengine.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/gamekvadrat/kvadratengine.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="957" column="36" selection-start="80141" selection-end="80141" vertical-scroll-proportion="-6.0" vertical-offset="16113" max-vertical-offset="17068">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kvadratgame.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/gamekvadrat/kvadratgame.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="70" selection-start="4312" selection-end="4312" vertical-scroll-proportion="-15.153846" vertical-offset="677" max-vertical-offset="7531">
+              <folding>
+                <marker date="1407595134611" expanded="false" signature="18951:18962" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kvadratzadanie.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/gamekvadrat/kvadratzadanie.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="23" selection-start="85" selection-end="85" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="3723">
+              <folding>
+                <marker date="1407595134620" expanded="false" signature="3274:3285" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="3286:3719" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="3290:3455" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="3290:3455" placeholder="..." />
+                <marker date="1407595134620" expanded="false" signature="3394:3421" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="3459:3598" placeholder="..." />
+                <marker date="1407595134620" expanded="false" signature="3561:3573" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="3602:3719" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="3633:3719" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="3687:3719" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="6185:6352" placeholder="..." />
+                <marker date="1407595134620" expanded="false" signature="6291:6318" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="6356:6509" placeholder="..." />
+                <marker date="1407595134620" expanded="false" signature="6472:6484" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="6513:6682" placeholder="..." />
+                <marker date="1407595134620" expanded="false" signature="6621:6648" placeholder="..." />
+                <marker date="1407595134620" expanded="true" signature="6686:6795" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="388" selection-end="388" vertical-scroll-proportion="0.47035572" vertical-offset="0" max-vertical-offset="506">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/siteadmin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="21" selection-start="24" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/siteuser/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="5" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sitegroupaccess.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/siteadmin/sitegroupaccess.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="128" column="44" selection-start="4947" selection-end="4947" vertical-scroll-proportion="-6.3461537" vertical-offset="2011" max-vertical-offset="2839">
+              <folding>
+                <marker date="1407595134622" expanded="true" signature="1030:1060" placeholder="select * fro..." />
+                <marker date="1407595134622" expanded="true" signature="3609:3641" placeholder="select * fro..." />
+                <marker date="1407595134622" expanded="true" signature="4925:4955" placeholder="select * fro..sitepage..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/1/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="28" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1054">
+              <folding>
+                <marker date="1407478672323" expanded="true" signature="1019:1049" placeholder="SELECT * FRO..sitepage..." />
+                <marker date="1407478672323" expanded="true" signature="1997:2407" placeholder="..." />
+                <marker date="1407478672323" expanded="true" signature="2001:2399" placeholder="..." />
+                <marker date="1407478672323" expanded="false" signature="2063:2074" placeholder="..." />
+                <marker date="1407478672323" expanded="false" signature="2221:2232" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth/auth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="5" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1173">
+              <folding>
+                <marker date="1407481444690" expanded="true" signature="1531:2118" placeholder="..." />
+                <marker date="1407481444690" expanded="true" signature="1541:2105" placeholder="..." />
+                <marker date="1407481444690" expanded="true" signature="1602:2095" placeholder="..." />
+                <marker date="1407481444690" expanded="false" signature="1758:1769" placeholder="..." />
+                <marker date="1407481444690" expanded="false" signature="1915:1926" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/ferunclass.php" />
+        <option value="$PROJECT_DIR$/auth/index.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/index.php" />
+        <option value="$PROJECT_DIR$/page/index.php" />
+        <option value="$PROJECT_DIR$/page/0/index.php" />
+        <option value="$PROJECT_DIR$/page/1/index.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/page/siteuser/index.php" />
+        <option value="$PROJECT_DIR$/page/2/index.php" />
+        <option value="$PROJECT_DIR$/page/7/index.php" />
+        <option value="$PROJECT_DIR$/auth/login.php" />
+        <option value="$PROJECT_DIR$/auth/logout.php" />
+        <option value="$PROJECT_DIR$/auth/auth.php" />
+        <option value="$PROJECT_DIR$/page/3/index.php" />
+        <option value="$PROJECT_DIR$/page/siteuser/userprofile.php" />
+        <option value="$PROJECT_DIR$/page/siteuser/userreg.php" />
+        <option value="$PROJECT_DIR$/page/siteuser/userteam.php" />
+        <option value="$PROJECT_DIR$/page/siteadmin/index.php" />
+        <option value="$PROJECT_DIR$/page/gamekvadrat/index.php" />
+        <option value="$PROJECT_DIR$/page/siteadmin/sitegroupaccess.php" />
+        <option value="$PROJECT_DIR$/page/gamekvadrat/kvadratengine.php" />
+        <option value="$PROJECT_DIR$/page/gamekvadrat/kvadratgame.php" />
+        <option value="$PROJECT_DIR$/page/gamekvadrat/kvadratzadanie.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1367" />
+    <option name="y" value="1" />
+    <option name="width" value="1278" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="siteuser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="siteadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gamekvadrat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ferun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OpenServer\domains\ferun" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OpenServer\domains\ferun\page" />
+      <recent name="E:\OpenServer\domains\ferun" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca234e77-d5e3-4468-9290-6fd3994c4446" name="Default" comment="" />
+      <created>1407425204466</created>
+      <updated>1407425204466</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1367" y="1" width="1278" height="982" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33050847" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18114755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18174475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/page/gamekvadrat/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="5" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/gamekvadrat/kvadratengine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="998" column="1" selection-start="81820" selection-end="81820" vertical-scroll-proportion="0.0" vertical-offset="16002" max-vertical-offset="17068">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/gamekvadrat/kvadratgame.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="437" column="1" selection-start="22017" selection-end="22017" vertical-scroll-proportion="0.0" vertical-offset="6261" max-vertical-offset="7531">
+          <folding>
+            <marker date="1407595134611" expanded="false" signature="18951:18962" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/gamekvadrat/kvadratzadanie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="210" column="59" selection-start="15606" selection-end="15606" vertical-scroll-proportion="0.0" vertical-offset="2895" max-vertical-offset="3723">
+          <folding>
+            <marker date="1407595134620" expanded="false" signature="3274:3285" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3286:3719" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3290:3455" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3290:3455" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="3394:3421" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3459:3598" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="3561:3573" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3602:3719" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3633:3719" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3687:3719" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="6185:6352" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="6291:6318" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="6356:6509" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="6472:6484" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="6513:6682" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="6621:6648" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="6686:6795" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteadmin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="21" selection-start="24" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteuser/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="5" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteadmin/sitegroupaccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="63" selection-start="6273" selection-end="6273" vertical-scroll-proportion="0.0" vertical-offset="2011" max-vertical-offset="2839">
+          <folding>
+            <marker date="1407595134622" expanded="true" signature="1030:1060" placeholder="select * fro..." />
+            <marker date="1407595134622" expanded="true" signature="3609:3641" placeholder="select * fro..." />
+            <marker date="1407595134622" expanded="true" signature="4925:4955" placeholder="select * fro..sitepage..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="28" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1054">
+          <folding>
+            <marker date="1407478672323" expanded="true" signature="1019:1049" placeholder="SELECT * FRO..sitepage..." />
+            <marker date="1407478672323" expanded="true" signature="1997:2407" placeholder="..." />
+            <marker date="1407478672323" expanded="true" signature="2001:2399" placeholder="..." />
+            <marker date="1407478672323" expanded="false" signature="2063:2074" placeholder="..." />
+            <marker date="1407478672323" expanded="false" signature="2221:2232" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1173">
+          <folding>
+            <marker date="1407481444690" expanded="true" signature="1531:2118" placeholder="..." />
+            <marker date="1407481444690" expanded="true" signature="1541:2105" placeholder="..." />
+            <marker date="1407481444690" expanded="true" signature="1602:2095" placeholder="..." />
+            <marker date="1407481444690" expanded="false" signature="1758:1769" placeholder="..." />
+            <marker date="1407481444690" expanded="false" signature="1915:1926" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteuser/userprofile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="57" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2686" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteuser/userreg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="29" selection-start="3300" selection-end="3300" vertical-scroll-proportion="0.0" vertical-offset="1482" max-vertical-offset="3009" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteuser/userteam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="37" selection-start="1804" selection-end="1804" vertical-scroll-proportion="0.0" vertical-offset="500" max-vertical-offset="5831">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="168" column="42" selection-start="7314" selection-end="7314" vertical-scroll-proportion="0.0" vertical-offset="2609" max-vertical-offset="3162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="43" selection-start="3112" selection-end="3112" vertical-scroll-proportion="0.0" vertical-offset="381" max-vertical-offset="4879" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/7/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="2" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="33" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="5" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1173">
+          <folding>
+            <marker date="1407481444690" expanded="true" signature="1531:2118" placeholder="..." />
+            <marker date="1407481444690" expanded="true" signature="1541:2105" placeholder="..." />
+            <marker date="1407481444690" expanded="true" signature="1602:2095" placeholder="..." />
+            <marker date="1407481444690" expanded="false" signature="1758:1769" placeholder="..." />
+            <marker date="1407481444690" expanded="false" signature="1915:1926" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="3" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="22" selection-start="32" selection-end="32" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/0/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="248" selection-end="248" vertical-scroll-proportion="7.1923075" vertical-offset="408" max-vertical-offset="2244" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="69" selection-start="1157" selection-end="1157" vertical-scroll-proportion="-20.26923" vertical-offset="340" max-vertical-offset="1700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="48" selection-start="33" selection-end="54" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ferunclass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+          <folding>
+            <element signature="e#6#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="67" selection-start="1910" selection-end="1920" vertical-scroll-proportion="-19.615385" vertical-offset="476" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="168" column="42" selection-start="7314" selection-end="7314" vertical-scroll-proportion="0.0" vertical-offset="2609" max-vertical-offset="3162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/7/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="2" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="33" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="5" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1173">
+          <folding>
+            <marker date="1407481444690" expanded="true" signature="1531:2118" placeholder="..." />
+            <marker date="1407481444690" expanded="true" signature="1541:2105" placeholder="..." />
+            <marker date="1407481444690" expanded="true" signature="1602:2095" placeholder="..." />
+            <marker date="1407481444690" expanded="false" signature="1758:1769" placeholder="..." />
+            <marker date="1407481444690" expanded="false" signature="1915:1926" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="43" selection-start="3112" selection-end="3112" vertical-scroll-proportion="0.0" vertical-offset="381" max-vertical-offset="4879" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteuser/userprofile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="57" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0" vertical-offset="245" max-vertical-offset="2686" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteuser/userreg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="29" selection-start="3300" selection-end="3300" vertical-scroll-proportion="0.0" vertical-offset="1482" max-vertical-offset="3009" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteuser/userteam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="37" selection-start="1804" selection-end="1804" vertical-scroll-proportion="-9.538462" vertical-offset="500" max-vertical-offset="5831">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="28" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1054">
+          <folding>
+            <marker date="1407478672323" expanded="true" signature="1019:1049" placeholder="SELECT * FRO..sitepage..." />
+            <marker date="1407478672323" expanded="true" signature="1997:2407" placeholder="..." />
+            <marker date="1407478672323" expanded="true" signature="2001:2399" placeholder="..." />
+            <marker date="1407478672323" expanded="false" signature="2063:2074" placeholder="..." />
+            <marker date="1407478672323" expanded="false" signature="2221:2232" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="66" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteuser/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="5" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteadmin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="21" selection-start="24" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/gamekvadrat/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="5" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/siteadmin/sitegroupaccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="128" column="44" selection-start="4947" selection-end="4947" vertical-scroll-proportion="-6.3461537" vertical-offset="2011" max-vertical-offset="2839">
+          <folding>
+            <marker date="1407595134622" expanded="true" signature="1030:1060" placeholder="select * fro..." />
+            <marker date="1407595134622" expanded="true" signature="3609:3641" placeholder="select * fro..." />
+            <marker date="1407595134622" expanded="true" signature="4925:4955" placeholder="select * fro..sitepage..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/gamekvadrat/kvadratengine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="957" column="36" selection-start="80141" selection-end="80141" vertical-scroll-proportion="-6.0" vertical-offset="16113" max-vertical-offset="17068">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/gamekvadrat/kvadratgame.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="70" selection-start="4312" selection-end="4312" vertical-scroll-proportion="-15.153846" vertical-offset="677" max-vertical-offset="7531">
+          <folding>
+            <marker date="1407595134611" expanded="false" signature="18951:18962" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/gamekvadrat/kvadratzadanie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="23" selection-start="85" selection-end="85" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="3723">
+          <folding>
+            <marker date="1407595134620" expanded="false" signature="3274:3285" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3286:3719" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3290:3455" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3290:3455" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="3394:3421" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3459:3598" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="3561:3573" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3602:3719" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3633:3719" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="3687:3719" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="6185:6352" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="6291:6318" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="6356:6509" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="6472:6484" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="6513:6682" placeholder="..." />
+            <marker date="1407595134620" expanded="false" signature="6621:6648" placeholder="..." />
+            <marker date="1407595134620" expanded="true" signature="6686:6795" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="388" selection-end="388" vertical-scroll-proportion="0.47035572" vertical-offset="0" max-vertical-offset="506">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
